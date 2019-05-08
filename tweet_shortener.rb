@@ -16,4 +16,4 @@ end
 
 def word_substituter(string)
   string.split.collect do |string|
-    
+    if 
